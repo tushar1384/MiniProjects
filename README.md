@@ -1,4 +1,4 @@
-I have done 2 minor projects.
+I have done 2 minor projects.    [Add Button]
 <br>
 ****** My first project is a "GuessNoGame". ******
 <br>
@@ -110,4 +110,4 @@ The game continues until the user enters 4.
 
 5. Game End:
 <br>
-Displays a farewell message and developer credit.   [Add Button]
+Displays a farewell message and developer credit.   
