@@ -112,4 +112,4 @@ The game continues until the user enters 4.
 <br>
 Displays a farewell message and developer credit.
 <br>
-                                *******     END     *******
+                                *******     END     *******     [Dropdown]
