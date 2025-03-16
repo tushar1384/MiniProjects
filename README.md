@@ -2,7 +2,7 @@ I have done 2 minor projects.
 <br>
 ****** My first project is a "GuessNoGame". ******
 <br>
-------- Workflow of GuessNoGame.cxx ----
+------- Workflow of GuessNoGame.c ----
 <br>
 The program is a simple number guessing game. Here’s its workflow:
 <br>
@@ -60,7 +60,7 @@ Displays game credit: "Game Developed by: Tushar Sharma"
 
 ****** My second Project is "SnakeWaterGun" game. *****
 <br>
-Workflow of SnakeWaterGun.cxx
+Workflow of SnakeWaterGun.c
 <br>
 The program implements a Snake-Water-Gun game where the user plays against the computer.
 <br>
