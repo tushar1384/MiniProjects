@@ -1,4 +1,4 @@
-I have done 2 minor projects.
+I have done 2 minor projects.  [Dropdown]
 <br>
 ****** My first project is a "GuessNoGame". ******
 <br>
@@ -112,4 +112,4 @@ The game continues until the user enters 4.
 <br>
 Displays a farewell message and developer credit.
 <br>
-                                *******     END     *******     [Dropdown]
+                                *******     END     *******     
