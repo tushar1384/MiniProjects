@@ -111,3 +111,5 @@ The game continues until the user enters 4.
 5. Game End:
 <br>
 Displays a farewell message and developer credit.
+
+                         ************************     END     ************************     
